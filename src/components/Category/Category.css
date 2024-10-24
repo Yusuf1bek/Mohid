@@ -1,0 +1,28 @@
+.category-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.category-item{
+    width: 354px;
+    padding: 46px 46px;
+    background-color: #F6F6F6;
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    border-radius: 10px;
+    margin-bottom: 135px;
+}
+.item-title{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    margin-bottom: 10px;
+}
+.item-text{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    color: #8B8E99;    
+}   
