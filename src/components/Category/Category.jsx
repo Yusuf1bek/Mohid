@@ -4,7 +4,7 @@ import "./Category.css"
 const categoryItem = [
     {
         id:1,
-        img:"src/assets/images/apple-img.png",
+        img:"././assets/images/apple-img.png",
         title:"Apple",
         description:"Apple is one of the most famous smart watches providing company."
     },
